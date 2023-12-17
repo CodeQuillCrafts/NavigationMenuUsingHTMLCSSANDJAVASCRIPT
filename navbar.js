@@ -1,1 +1,2 @@
-const navigationMenu = `<nav class="navigationMenu"><h1>Navbar</h1><ul><li><a href="">Home</a></li><li><a href="">About</a></li><li><a href="">Services</a></li><li><a href="">Contact</a></li></ul><div class="hamburger"><div class="bar"></div><div class="bar"></div><div class="bar"></div></div></nav>`; export default navigationMenu;
+const navigationMenu = `<nav class="navigationMenu"><h1>Navbar</h1><ul><li><a href="">Home</a></li><li><a href="">About</a></li><li><a href="">Services</a></li><li><a href="">Contact</a></li></ul><div class="hamburger"><div class="bar"></div><div class="bar"></div><div class="bar"></div></div></nav>`;
+export default navigationMenu;
