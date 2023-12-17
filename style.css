@@ -64,6 +64,9 @@ a:hover {
 .second {
   display: none;
   transition: all .5s ease-in-out;
+}
+
+.third {
   transform: rotate(-45deg) translate(1px, -1px);
   transition: all .5s ease-in-out;
 }
